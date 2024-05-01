@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IT companies
 - 📫 How to reach me Email: islommahsudov20@gmail.com Mobile phone: +992900006931
 
-![Isloms's GitHub stats](https://github-readme-stats.vercel.app/api?username=islommakhsudov&show_icons=true&theme=slateblue)
+[![Islom's GitHub stats](https://github-readme-stats.vercel.app/api?username=islommakhsudov)](https://github.com/islommakhsudov/github-readme-stats)
 
 # Technologies
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
